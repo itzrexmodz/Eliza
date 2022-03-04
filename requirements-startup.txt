@@ -33,7 +33,6 @@ justwatch
 lxml
 oauth2client
 patool
-psycopg2
 psycopg2-binary
 PyLyrics
 pySmartDL
